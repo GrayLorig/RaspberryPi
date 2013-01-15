@@ -1,0 +1,5 @@
+The headers found in this directory provide support for a variety of standalone chips. These are:
+
+MCP23008: I2C 8-bit extension support with nifty interrupt control
+MCP4725:  I2C 12-bit D to A converter
+MCP3008:  SPI 10-bit, 8-channel A to D converter
