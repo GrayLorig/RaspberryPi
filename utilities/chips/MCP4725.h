@@ -1,6 +1,6 @@
 // Support for MCP4725 12-bit DAC
 
-// Code by Powisset Brook/Gray Lorig
+// Code by Ignus Porkus/Gray Lorig
 // License: LGPL
 
 #include <stdio.h>

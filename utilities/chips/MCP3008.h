@@ -1,7 +1,8 @@
 /*
  * MCP3008.h: Support library for the MCP3008 10-bit A-to-D converter.
  *
- * Code by Barking Trout Productions/Gray Lorig
+ * Code by Ignus Porkus/Gray Lorig
+ * License: LGPL
  */
 
 #include <stdio.h>

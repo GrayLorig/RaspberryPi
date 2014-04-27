@@ -2,7 +2,7 @@
 // also works with the MCP23009
 
 // Code by Adafruit Industries/Limor Fried
-// Adapted for RaspberryPi by Gray Lorig
+// Adapted for RaspberryPi by Ignus Porkus/Gray Lorig
 // License: LGPL
 
 #include <stdio.h>
