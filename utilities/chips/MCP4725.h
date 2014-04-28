@@ -61,7 +61,7 @@ inline bool MCP4725::begin(const char *device, uint8_t addr)
      i2caddr_ = addr | MCP4725_ADDRESS; // Add fixed portion of address
 
 //
-// Attempt to open socket connection
+// Attempt to open the i2c device driver
    if (deviceFd_ >= 0) // Connection is already open
    {
       fputs("MCP4725: Device already open", stderr);
